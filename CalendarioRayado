@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Calendario Rayados Apertura 2026</title>
+
+<link rel="stylesheet" href="styles.css">
+
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>🇫🇮 Rayados Monterrey</h1>
+
+<h2>Apertura 2026</h2>
+
+<p class="descripcion">
+No te pierdas ningún partido.
+Agrega el calendario oficial a tu dispositivo.
+</p>
+
+<a class="boton"
+href="Rayados_Apertura_2026.ics">
+📅 Agregar Calendario
+</a>
+
+<a class="boton-secundario"
+href="Rayados_Apertura_2026.ics"
+download>
+📥 Descargar .ICS
+</a>
+
+<div class="card">
+
+<h3>🍎 iPhone</h3>
+
+<p>
+
+1. Pulsa <b>Agregar Calendario</b>.<br><br>
+
+2. Descarga el archivo.<br><br>
+
+3. Ábrelo desde Archivos.<br><br>
+
+4. Presiona <b>Agregar todos los eventos</b>.
+
+</p>
+
+</div>
+
+<div class="card">
+
+<h3>🤖 Android</h3>
+
+<p>
+
+1. Descarga el archivo.<br><br>
+
+2. Ábrelo con Google Calendar.<br><br>
+
+3. Importa el calendario.
+
+</p>
+
+</div>
+
+<footer>
+
+Hecho por aficionados 🇫🇮
+
+</footer>
+
+</div>
+
+</body>
+
+</html>
